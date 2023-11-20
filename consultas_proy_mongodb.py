@@ -25,8 +25,6 @@ import json
 """Para conectar a *MongoDB Atlas Database*:"""
 
 # Cadena de conexión
-connection_str = "mongodb+srv://hhigueran:beto19411626@bigdata2023.w3mo0gr.mongodb.net/?retryWrites=true&w=majority"
-client = MongoClient(connection_str)
 
 """## Preparación de base de datos en *MongoDB*
 ---
